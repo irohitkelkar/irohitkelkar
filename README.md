@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @irohitkelkar
-- 👀 I’m interested in Xamarin forms and mobile devops
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on xamarin and flutter
+
+- I am a Dev. I can code. I write apps. Thats It
+
 - 📫 How to reach me - rohit.kelkar95@gmail.com
 
 <!---
