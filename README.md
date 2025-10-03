@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @irohitkelkar
 
-- I am a Dev. I can code. I write apps. Thats It
 
 - 📫 How to reach me - rohit.kelkar95@gmail.com
 
